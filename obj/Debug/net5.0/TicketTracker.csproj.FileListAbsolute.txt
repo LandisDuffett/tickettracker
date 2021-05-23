@@ -1,0 +1,16 @@
+C:\Users\ldavd\code\apps\TicketTracker\bin\Debug\net5.0\TicketTracker.exe
+C:\Users\ldavd\code\apps\TicketTracker\bin\Debug\net5.0\TicketTracker.deps.json
+C:\Users\ldavd\code\apps\TicketTracker\bin\Debug\net5.0\TicketTracker.runtimeconfig.json
+C:\Users\ldavd\code\apps\TicketTracker\bin\Debug\net5.0\TicketTracker.runtimeconfig.dev.json
+C:\Users\ldavd\code\apps\TicketTracker\bin\Debug\net5.0\TicketTracker.dll
+C:\Users\ldavd\code\apps\TicketTracker\bin\Debug\net5.0\ref\TicketTracker.dll
+C:\Users\ldavd\code\apps\TicketTracker\bin\Debug\net5.0\TicketTracker.pdb
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\TicketTracker.csprojAssemblyReference.cache
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\TicketTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\TicketTracker.AssemblyInfoInputs.cache
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\TicketTracker.AssemblyInfo.cs
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\TicketTracker.csproj.CoreCompileInputs.cache
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\TicketTracker.dll
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\ref\TicketTracker.dll
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\TicketTracker.pdb
+C:\Users\ldavd\code\apps\TicketTracker\obj\Debug\net5.0\TicketTracker.genruntimeconfig.cache
