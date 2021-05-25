@@ -20,8 +20,8 @@ Number   Title
     }
     public void ViewTicket(string index)
     {
-      int i;
-      if (Int32.TryParse(index, out i))
+      //int i;
+      if (Int32.TryParse(index, out int i))
       {
         i = i - 1;
         if (i > -1 && i < Log.Count)
